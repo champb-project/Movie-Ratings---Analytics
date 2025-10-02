@@ -1,6 +1,6 @@
 # Movie-Ratings---Analytics
 
-An analysis of 5000 movies. Looking to identify   
+An analysis of 5000 movies aiming to identify patterns in ratings, popularity, and genre.
 
 
 ## Overview
@@ -21,4 +21,19 @@ Steps taken to prepare the data:
 - Checked for missing values or values outside of expected ranges.
 
 ## Findings
+### Ratings Correlations
 
+![Total Names per Year](Plots/ratingsCorr.png)
+
+###
+![Total Names per Year](Plots/votesbyRating.png)
+
+![Total Names per Year](Plots/runtimebyRating.png)
+
+###
+![Total Names per Year](Plots/ratingsbyYear.png)
+
+![Total Names per Year](Plots/moviesbyYear.png)
+
+###
+![Total Names per Year](Plots/underratedMovies.png)
