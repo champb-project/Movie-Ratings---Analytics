@@ -23,7 +23,7 @@ Steps taken to prepare the data:
 
 ## Findings
 ### Ratings Correlations
-When running correlations of ratings to other recorded factors, there is a weak to moderate correlation to runtime, number of votes, and release year.       
+When running correlations of ratings to other recorded factors, there is a weak to moderate correlation to runtime, number of votes, and release year. And little to no correlation to genres.    
 ![Ratings Correlation](Plots/ratingsCorr.png)
 
 
