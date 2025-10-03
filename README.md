@@ -36,7 +36,7 @@ There is also a slight decline in the average runtime for the ratings of around 
 
 ### By Year
 Grouping by release year shows a slight decrease in average ratings over the years. About a 1 rating drop over 100 years on average.
-![Rating by Year](Plots/ratingsbyYear.png)
+![Rating by Year](Plots/ratingbyYear.png)
 
 At the same time, the number of movies released per year has increased dramatically. This suggests that the overall decline in average ratings is likely due to the sheer volume of additional movies, including many lower-rated ones, rather than a true decline in movie quality.
 ![Movies by Year](Plots/moviesbyYear.png)
