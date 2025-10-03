@@ -56,3 +56,5 @@ To find underrated movies, I looked for movies with a high score and a low numbe
 - **Spreadsheets**: for data cleaning, processing, analysis, and visualization
 - **SQL Query**: for data pocessing
 
+## Data & Analysis
+The full analysis can be viewed here: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_CzMmyMFiPguuxqRToYPIqEy3L5AXjUYZ7ydUmQHeV0/edit?usp=sharing)
