@@ -20,10 +20,12 @@ Steps taken to prepare the data:
 - Removed unneeded columns.
 - Checked for missing values or values outside of expected ranges.
 
+
 ## Findings
 ### Ratings Correlations
 When running correlations of ratings to other recorded factors, there is a weak to moderate correlation to runtime, number of votes, and release year.       
 ![Ratings Correlation](Plots/ratingsCorr.png)
+
 
 ### Visual Correlations
 Putting these on graphs, you can see that the higher-rated movies get significantly more votes on average than the lower-rated movies.
@@ -34,6 +36,7 @@ Runtime also had a weak correlation, and when plotted out there is a more linear
 There is also a slight decline in the average runtime for the ratings of around 9.5. Suggesting there is probably a "sweet spot" for how long people prefer a movie to be.
 ![Runtime by Rating](Plots/runtimebyRating.png)
 
+
 ### By Year
 Grouping by release year shows a slight decrease in average ratings over the years. About a 1 rating drop over 100 years on average.
 ![Rating by Year](Plots/ratingbyYear.png)
@@ -42,6 +45,7 @@ At the same time, the number of movies released per year has increased dramatica
 ![Movies by Year](Plots/moviesbyYear.png)
 
 It’s also possible that other cultural and industry factors contribute to these changes. For example, the slight rating decline may reflect audiences becoming more critical over time as expectations evolve.
+
 
 ### Underrated Movies
 To find underrated movies, I looked for movies with a high score and a low number of votes. These movies scored well but received little attention. Filtering by genre and minimum rating made it easier to explore different categories.
