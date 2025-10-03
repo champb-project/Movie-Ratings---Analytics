@@ -40,6 +40,7 @@ Grouping by release year shows a slight decrease in average ratings over the yea
 
 At the same time, the number of movies released per year has increased dramatically. This suggests that the overall decline in average ratings is likely due to the sheer volume of additional movies, including many lower-rated ones, rather than a true decline in movie quality.
 ![Movies by Year](Plots/moviesbyYear.png)
+
 It’s also possible that other cultural and industry factors contribute to these changes. For example, the slight rating decline may reflect audiences becoming more critical over time as expectations evolve.
 
 ### Underrated Movies
